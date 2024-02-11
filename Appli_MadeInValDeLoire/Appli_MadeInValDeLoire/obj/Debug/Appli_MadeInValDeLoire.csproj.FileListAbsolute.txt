@@ -1,0 +1,401 @@
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmDifficulte.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmTheme.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+C:\Users\Kalvin\Downloads\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+W:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+C:\Users\yalgalmash\Desktop\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+E:\Made In Val de Loire 2\Made In Val de Loire\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+E:\2nde Annee\Projet\Made In Val de Loire\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+E:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe.config
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.exe
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Appli_MadeInValDeLoire.pdb
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\ZstdSharp.dll
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\BouncyCastle.Crypto.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.pdb
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Google.Protobuf.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.pdb
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Lib_MadeInValDeLoire.dll.config
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\MySql.Data.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Buffers.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.IO.Pipelines.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Memory.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Numerics.Vectors.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.AssemblyReference.cache
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmAccueil.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmChoix.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmQuiz.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmRegles.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmResultat.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.Properties.Resources.resources
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.GenerateResource.cache
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CoreCompileInputs.cache
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.csproj.CopyComplete
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.exe
+D:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.pdb
+W:\Projet bientot fini\QuizMVDL\Appli_MadeInValDeLoire\Appli_MadeInValDeLoire\obj\Debug\Appli_MadeInValDeLoire.FrmConnection.resources
