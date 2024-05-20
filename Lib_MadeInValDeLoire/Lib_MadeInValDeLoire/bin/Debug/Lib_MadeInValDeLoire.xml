@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lib_MadeInValDeLoire</name>
+    </assembly>
+    <members>
+        <member name="T:Lib_MadeInValDeLoire.ConnexionBDD">
+            <summary>
+            Classe gérant la connexion entre la BDD et l'application
+            </summary>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.ConnexionBDD.OuvertureConnexion">
+            <summary>
+            Ouvre la connexion à la BDD
+            </summary>
+            <returns>Si la connexion réussie</returns>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.ConnexionBDD.FermetureConnexion(MySql.Data.MySqlClient.MySqlConnection)">
+            <summary>
+            Ferme la connexion établie
+            </summary>
+            <param name="connexion">Nom de la Connexion</param>
+        </member>
+        <member name="T:Lib_MadeInValDeLoire.Quiz">
+            <summary>
+            Classe permettant de récupérer les informations de quiz
+            </summary>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.Quiz.RecupThemes(MySql.Data.MySqlClient.MySqlConnection)">
+            <summary>
+            Récupère tous les thèmes
+            </summary>
+            <param name="connexion">Nom de la Connexion</param>
+            <returns>Tous les thèmes de la BDD</returns>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.Quiz.RecupNiveauDifficulte(MySql.Data.MySqlClient.MySqlConnection)">
+            <summary>
+            Récupère tous les niveaux de difficulté
+            </summary>
+            <param name="connexion">Nom de la Connexion</param>
+            <returns>Tous les niveaux de difficulté de la BDD</returns>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.Quiz.RecupQuestions(System.String,System.String,MySql.Data.MySqlClient.MySqlConnection)">
+            <summary>
+            Retourne les questions selon le thème et la difficulté
+            </summary>
+            <param name="theme">Thème choisi</param>
+            <param name="difficulte">Difficulté choisie</param>
+            <param name="connexion">Nom de la Connexion</param>
+            <returns>Retourne les questions</returns>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.Quiz.RecupReponses(System.String,MySql.Data.MySqlClient.MySqlConnection)">
+            <summary>
+            Récupère toutes les réponses selon la question
+            </summary>
+            <param name="Question">Intitulé de la question</param>
+            <param name="connexion">Nom de la Connexion</param>
+            <returns>Toutes les Réponses de la BDD</returns>
+        </member>
+        <member name="T:Lib_MadeInValDeLoire.User">
+            <summary>
+            Classe gérant les utilisateurs de la base de données
+            </summary>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.User.Inscription(MySql.Data.MySqlClient.MySqlConnection,System.String,System.String,System.DateTime,System.String,System.String,System.String)">
+            <summary>
+            Ajoute un utilisateur avec des données précises
+            Sachant que le mot de passe est hashé
+            </summary>
+            <param name="connexion">Nom de la connexion</param>
+            <param name="nom">Nom de l'utilisateur</param>
+            <param name="prenom">Prénom de l'utilisateur</param>
+            <param name="dateNaissance">Date de naissance de l'utilisateur</param>
+            <param name="mail">Adresse mail de l'utilisateur</param>
+            <param name="login"></param>
+            <param name="motDePasse">Mot de passe de l'utilisateur</param>
+            <returns>Booléen si l'ajout a été fait (1 = réussi)</returns>
+        </member>
+        <member name="M:Lib_MadeInValDeLoire.User.VerifierJoueur(MySql.Data.MySqlClient.MySqlConnection,System.String,System.String)">
+            <summary>
+            Vérifie les données de connexion
+            </summary>
+            <param name="connexion">Nom de la connexion</param>
+            <param name="login">Login entré par l'utilisateur</param>
+            <param name="motDePasse">Mot de passe entré par l'utilisateur</param>
+            <returns>Si les données entrées sont bonnes (1 = Réussi)</returns>
+        </member>
+    </members>
+</doc>
